@@ -1,1 +1,2 @@
 This is new text
+But is it really new text?
