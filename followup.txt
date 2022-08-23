@@ -1,1 +1,3 @@
 3rd ex of pushed txt
+additional testing of coordination between
+vsc and GH
