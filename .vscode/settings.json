@@ -1,0 +1,5 @@
+{
+    "solidity.defaultCompiler": "localFile",
+    "solidity.compileUsingRemoteVersion": "latest",
+    "solidity.compileUsingLocalVersion": "/home/ubuntu/Test/soljson-v0.8.16+commit.07a7930e.js"
+}
