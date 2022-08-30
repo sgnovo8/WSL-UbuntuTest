@@ -8,7 +8,7 @@ contract TestGH {
     string location; 
     uint speed;
 
-
+//add another variable to track duration
 
 
 }
