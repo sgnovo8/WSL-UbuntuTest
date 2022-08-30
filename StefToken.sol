@@ -9,3 +9,5 @@ contract STFToken is ERC20 {
         _mint(msg.sender, initialSupply);
     }
 }
+
+//why is there a problem with the solidity ver used?
