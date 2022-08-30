@@ -6,6 +6,7 @@ contract TestGH {
 
     uint miles;
     string location; 
+    uint speed;
 
 
 
