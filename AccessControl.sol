@@ -19,4 +19,6 @@ contract MyToken is ERC20, AccessControl {
         require(hasRole(MINTER_ROLE, msg.sender), "Caller is not a minter");
         _mint(to, amount);
     }
+
+    //last comment
 }
